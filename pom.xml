@@ -39,7 +39,7 @@
               <outputDirectory>${project.build.directory}/classes</outputDirectory>
               <resources>
                 <resource>
-                  <directory>src/main/resources</directory>
+                  <directory>platform/java/src/main/resources</directory>
                   <filtering>true</filtering>
                 </resource>
               </resources>
